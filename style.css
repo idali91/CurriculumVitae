@@ -3,6 +3,10 @@ body{
     background-color: #9ab5c66c;
 }
 
+#especial{
+    text-align: center;
+}
+
 section.fondo{
     background-color: hsla(225, 22%, 64%, 0.432);
 }
@@ -41,7 +45,6 @@ footer.pie{
 }
 
 pre.posicion{
-    position: relative;
-    right: -550px;
+    text-align: right;
 }
 
