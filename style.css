@@ -28,16 +28,19 @@ span.resaltardos{
     color: hsla(209, 91%, 57%, 0.961);
     font-weight: bold;
 }
+
 pre.letra{
     font-family: 'Times New Roman', Times, serif;
     background-color: hsla(225, 22%, 64%, 0.432);
 }
+
 h3.especial{
     background-color: #c0c0d1d7;
     font-style: italic;
     color: gray;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
 footer.pie{
     background-color: white;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
